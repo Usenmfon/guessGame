@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usenmfon\\Desktop\\guessGame\\guessGame.csproj",
+      "projectUniqueName": "C:\\Users\\Usenmfon\\New Edit\\guessGame\\guessGame\\guessGame.csproj",
       "projectName": "guessGame",
-      "projectPath": "C:\\Users\\Usenmfon\\Desktop\\guessGame\\guessGame.csproj",
+      "projectPath": "C:\\Users\\Usenmfon\\New Edit\\guessGame\\guessGame\\guessGame.csproj",
       "packagesPath": "C:\\Users\\Usenmfon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usenmfon\\Desktop\\guessGame\\obj\\",
+      "outputPath": "C:\\Users\\Usenmfon\\New Edit\\guessGame\\guessGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usenmfon\\AppData\\Roaming\\NuGet\\NuGet.Config"

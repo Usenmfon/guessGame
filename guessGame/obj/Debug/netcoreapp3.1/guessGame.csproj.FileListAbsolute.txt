@@ -9,3 +9,14 @@ C:\Users\Usenmfon\Desktop\guessGame\bin\Debug\netcoreapp3.1\guessGame.dll
 C:\Users\Usenmfon\Desktop\guessGame\bin\Debug\netcoreapp3.1\guessGame.pdb
 C:\Users\Usenmfon\Desktop\guessGame\obj\Debug\netcoreapp3.1\guessGame.dll
 C:\Users\Usenmfon\Desktop\guessGame\obj\Debug\netcoreapp3.1\guessGame.pdb
+C:\Users\Usenmfon\New Edit\guessGame\guessGame\bin\Debug\netcoreapp3.1\guessGame.exe
+C:\Users\Usenmfon\New Edit\guessGame\guessGame\bin\Debug\netcoreapp3.1\guessGame.deps.json
+C:\Users\Usenmfon\New Edit\guessGame\guessGame\bin\Debug\netcoreapp3.1\guessGame.runtimeconfig.json
+C:\Users\Usenmfon\New Edit\guessGame\guessGame\bin\Debug\netcoreapp3.1\guessGame.runtimeconfig.dev.json
+C:\Users\Usenmfon\New Edit\guessGame\guessGame\bin\Debug\netcoreapp3.1\guessGame.dll
+C:\Users\Usenmfon\New Edit\guessGame\guessGame\bin\Debug\netcoreapp3.1\guessGame.pdb
+C:\Users\Usenmfon\New Edit\guessGame\guessGame\obj\Debug\netcoreapp3.1\guessGame.csprojAssemblyReference.cache
+C:\Users\Usenmfon\New Edit\guessGame\guessGame\obj\Debug\netcoreapp3.1\guessGame.AssemblyInfoInputs.cache
+C:\Users\Usenmfon\New Edit\guessGame\guessGame\obj\Debug\netcoreapp3.1\guessGame.AssemblyInfo.cs
+C:\Users\Usenmfon\New Edit\guessGame\guessGame\obj\Debug\netcoreapp3.1\guessGame.dll
+C:\Users\Usenmfon\New Edit\guessGame\guessGame\obj\Debug\netcoreapp3.1\guessGame.pdb

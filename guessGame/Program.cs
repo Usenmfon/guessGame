@@ -26,10 +26,12 @@ namespace guessGame
                             Console.WriteLine("Remaining life: " + life + "\n");
                             Console.Write("Enter Guess:");
                             int guess = int.Parse(Console.ReadLine());
-                            if(guess <= 10)
+                            Random rnd = new Random();
+                            int newRnd = rnd.Next(1,10);
+                            if(guess == newRnd)
                             {
                                 Console.WriteLine("***You got iT right***");
-                                if(guess > 1)
+                                if(guess == newRnd)
                                 {
                                     break;
                                 }                 
@@ -56,11 +58,13 @@ namespace guessGame
                             Console.WriteLine("Remaining life: " + life + "\n");
                             Console.Write("Enter Guess:");
                             int guess = int.Parse(Console.ReadLine());
+                            Random rnd = new Random();
+                            int newRnd = rnd.Next(1,20);
 
-                            if(guess <= 20)
+                            if(guess == newRnd)
                             {
                                 Console.WriteLine("***You got iT right***");
-                                if(guess > 1)
+                                if(guess == newRnd)
                                 {
                                     break;
                                 }                 
@@ -86,11 +90,13 @@ namespace guessGame
                             Console.WriteLine("Remaining life: " + life + "\n");
                             Console.Write("Enter Guess:");
                             int guess = int.Parse(Console.ReadLine());
+                            Random rnd = new Random();
+                            int newRnd = rnd.Next(1,50);
 
-                            if(guess <= 50)
+                            if(guess == newRnd)
                             {
                                 Console.WriteLine("***You got iT right***");
-                                if(guess > 1)
+                                if(guess == newRnd)
                                 {
                                     break;
                                 }                 
